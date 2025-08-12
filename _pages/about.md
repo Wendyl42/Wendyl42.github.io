@@ -32,8 +32,11 @@ latest_posts:
 ### About me
 
 😊 Hi, I am Yihua Liu
+
 👨‍💻 I am an AI inference engineer, and I worked for 2 years at [Wizard Quant](https://www.wizardquant.com/en), a High-Frequency Trading firm in China. This full-time work experience brings me solid programming skills
+
 🎓 I got my bachelor Degree in Data Science and Big Data Technology from [Peking University](https://english.pku.edu.cn) in July 2023
+
 👀 I am mostly interested in **Machine Learning Systems** for LLMs, including both training and inference acceleration through algorithm innovations and system optimizations.
   - Currently I am learning about a broad range of methodologies in this field, such as kernel optimization, decoding algorithms, quantization, KV-Cache optimization, etc.
 
