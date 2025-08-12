@@ -12,7 +12,7 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -25,8 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+### News
+
+❗ **I am actively looking for MLSys/LLM Research Intern Opportunity**. I have experience in machine learning research and high performance programming(both high performance software development and ML inference framework). If your group needs a teammate, I am eager to contribute my skills to your research and dive deeper into this field.
+
 ### About me
 
-I’m Yihua Liu, an AI inference engineer. I worked for 2 years at [Wizard Quant](https://www.wizardquant.com/en), a well-known High-Frequency Trading firm in China. Previously I graduated from [Yuanpei College, Peking University](https://yuanpei.pku.edu.cn/en/) with a bachelor's degree in Data Science and Big Data Technology.
+😊 Hi, I am Yihua Liu
+👨‍💻 I am an AI inference engineer, and I worked for 2 years at [Wizard Quant](https://www.wizardquant.com/en), a High-Frequency Trading firm in China. This full-time work experience brings me solid programming skills
+🎓 I got my bachelor Degree in Data Science and Big Data Technology from [Peking University](https://english.pku.edu.cn) in July 2023
+👀 I am mostly interested in **Machine Learning Systems** for LLMs, including both training and inference acceleration through algorithm innovations and system optimizations.
+  - Currently I am learning about a broad range of methodologies in this field, such as kernel optimization, decoding algorithms, quantization, KV-Cache optimization, etc.
 
-I am mostly interested in Machine Learning Systems and their applications, including LLM optimization by Hardware-Software Co-Design. I am also passionate about efficient DNN computing, pruning and quantization.
