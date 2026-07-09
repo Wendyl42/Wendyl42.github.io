@@ -27,17 +27,18 @@ latest_posts:
 
 ### News
 
-❗ **I am actively looking for fall 2026 PhD Opportunity on MLSys**. I have experience in machine learning research and high performance programming(both high performance software development and ML inference framework). If your group needs a teammate, I am eager to contribute my skills to your research and dive deeper into this field.
+❗ **I am actively looking for Fall 2027 PhD opportunities in Computer Science, especially in Agent Systems / MLSys.** I have experience in machine learning research, high-performance programming, and ML inference systems. I am also open to research internship or collaboration opportunities where I can contribute to systems-oriented AI research.
 
 ### About me
 
 😊 Hi, I am Yihua Liu!
 
-👨‍💻 Currently I am a research intern in Professor [Chengming Zhang](https://www.linkedin.com/in/chengming-zhang-71a3b1120)'s group in [University of Houston](https://uh.edu), working on training-free resolution extrapolation for DiTs.
+👨‍💻 I am currently preparing for PhD applications and exploring research directions in **LLM agent infrastructure** and **Machine Learning Systems**.
 
-🏢 I had been working as an AI inference engineer at [Wizard Quant](https://www.wizardquant.com/en), a High-Frequency Trading firm in China, from July 2023 to July 2025. This full-time work experience brings me solid C++ programming skills and system-level optimization abilities.
+🔬 Previously, I was a research intern in Professor [Chengming Zhang](https://www.linkedin.com/in/chengming-zhang-71a3b1120)’s group at the [University of Houston](https://uh.edu/), where I worked on training-free resolution extrapolation and inference acceleration for Diffusion Transformers (DiTs).
 
-🎓 I got my bachelor Degree in Data Science and Big Data Technology from [Peking University](https://english.pku.edu.cn) in July 2023.
+🏢 Before that, I worked as an AI inference engineer at [Wizard Quant](https://www.wizardquant.com/en), a high-frequency trading firm in China, from July 2023 to July 2025. This full-time experience gave me solid C++ programming skills and system-level optimization experience.
 
-👀 I am mostly interested in **Machine Learning Systems** for LLMs and DiTs, including both training and inference acceleration through algorithm innovations and system optimizations.
+🎓 I received my bachelor's degree in Data Science and Big Data Technology from [Peking University](https://english.pku.edu.cn/) in July 2023.
 
+👀 My current research interests lie in **Agent Systems / MLSys**, especially efficient inference and runtime systems for modern generative AI workloads.
